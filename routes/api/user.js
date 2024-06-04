@@ -87,7 +87,7 @@ router.get("/user/:pk", async (req, res) => {
 });
 
 // Update Excersises for a user
-router.patch("/addExcercise", async (req, res) => {
+router.patch("/addExcerciseData", async (req, res) => {
   try {
     const userDetails = await usersData.findOneAndUpdate(
       { pk: req.body.pk }, // Find by the provided ID
