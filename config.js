@@ -1,7 +1,3 @@
 module.exports = {
-	MONGO_URI: "mongodb+srv://openFeedback:openFeedback@cluster0.95zulfq.mongodb.net/openFeedbackDatabase?retryWrites=true&w=majority"
+	MONGO_URI: "mongodb+srv://agrawalraghav669:personal-gym-buddy@cluster0.kzlruav.mongodb.net/"
 }
-
-// module.exports = {
-// 	MONGO_URI: "mongodb+srv://openFeedback:openFeedback@cluster0.hhbhkmv.mongodb.net/openFeedback?retryWrites=true&w=majority"
-// }

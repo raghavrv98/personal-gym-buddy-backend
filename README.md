@@ -1,1 +1,1 @@
-# openFeedbackBackend
+# personal-gym-buddy-backend
